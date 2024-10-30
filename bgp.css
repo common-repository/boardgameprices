@@ -1,0 +1,60 @@
+
+table.boardgamepricesinfobox {
+    border: solid 1px #22c061;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+table.boardgamepricesinfobox th {
+    background-color: #159f4b;
+    text-align: center;
+    border: solid 1px #008000;
+    color: white;
+    padding-top: 8px;
+}
+
+table.boardgamepricesinfobox th a {
+    color: white;
+    text-decoration: underline;
+}
+
+table.boardgamepricesinfobox .boardgamepricesitemname {
+    font-weight: bold;
+}
+
+table.boardgamepricesinfobox th img {
+    vertical-align: middle;
+    height: 25px;
+
+}
+
+table.boardgamepricesinfobox td.boardgamepricesimg {
+    text-align: center;
+}
+
+table.boardgamepricesinfobox td {
+    border: none;
+    border-bottom: 1px dotted #ccc;
+    padding: 6px;
+}
+
+
+table.boardgamepricesinfobox em {
+    color: #666666;
+    font-size: 80%;
+}
+
+table.boardgamepricesinfobox a.outlink {
+    display: block;
+    text-decoration: none;
+    width: 125px;
+    background: #6736f3;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+

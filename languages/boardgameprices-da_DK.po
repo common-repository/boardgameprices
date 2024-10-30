@@ -1,0 +1,129 @@
+# Copyright (C) 2015 BoardGamePrices
+# This file is distributed under the same license as the BoardGamePrices package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BoardGamePrices 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/boardgameprices\n"
+"POT-Creation-Date: 2015-09-13 10:20:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-09-13 12:26+2\n"
+"Last-Translator: Kean Pedersen <kean@braetspilspriser.dk>\n"
+"Language-Team: Kean Pedersen <kean@braetspilspriser.dk>\n"
+
+#: boardgameprices.php:41
+msgid "[ID is required]"
+msgstr "[ID mangler]"
+
+#: boardgameprices.php:60
+msgid "[Error getting price]"
+msgstr "[Fejl ved hent af pris]"
+
+#: boardgameprices.php:77
+msgid "Prices delivered by %s"
+msgstr "Priser leveret af %s"
+
+#: boardgameprices.php:86
+msgid "with shipping"
+msgstr "med fragt"
+
+#: boardgameprices.php:88
+msgid ", in stock!"
+msgstr ", på lager!"
+
+#: boardgameprices.php:94
+msgid "Buy now"
+msgstr "Køb nu"
+
+#: boardgameprices.php:98
+msgid "See all %d offers!"
+msgstr "Se alle %d tilbud!"
+
+#: boardgameprices.php:103
+msgid "%s could not find a price for this item."
+msgstr "%s kunne ikke finde en pris på dette produkt."
+
+#: boardgameprices.php:106
+msgid "More details here"
+msgstr "Se flere detaljer her"
+
+#: boardgameprices.php:133
+msgid "[unknown price]"
+msgstr "[ukendt pris]"
+
+#: boardgameprices.php:174
+msgid "BoardGamePrices Settings"
+msgstr "Brætspilspriser indstillinger"
+
+#: boardgameprices.php:185
+msgid "BoardGamePrices settings"
+msgstr "Brætspilspriser indstillinger"
+
+#: boardgameprices.php:191
+msgid "Destination country for shipping prices:"
+msgstr "Leveringslang for fragtberegninger:"
+
+#: boardgameprices.php:193
+msgid "United Kingdom"
+msgstr "Storbritannien"
+
+#: boardgameprices.php:194
+msgid "Denmark"
+msgstr "Danmark"
+
+#: boardgameprices.php:195
+msgid "Sweden"
+msgstr "Sverige"
+
+#: boardgameprices.php:196
+msgid "Germany"
+msgstr "Tyskland"
+
+#: boardgameprices.php:197
+msgid "United States"
+msgstr "USA"
+
+#: boardgameprices.php:201
+msgid "Currency:"
+msgstr "Valuta:"
+
+#: boardgameprices.php:211
+msgid "Preference for price selection:"
+msgstr "Indstiling for valg af priser:"
+
+#: boardgameprices.php:213
+msgid "Prefer items in stock from local stores (recommended)."
+msgstr "Foretræk produkter på lager fra lokale butikker (anbefalet)."
+
+#: boardgameprices.php:215
+msgid "Prefer items in stock (from all stores)."
+msgstr "Foretræk produkter på lager (i alle butikker)."
+
+#: boardgameprices.php:217
+msgid "Always select the cheapest price (with shipping)."
+msgstr "Vælg altid den billigste pris (med fragt)."
+
+#: boardgameprices.php:221
+msgid "Save Changes"
+msgstr "Gem"
+
+#. Plugin Name of the plugin/theme
+msgid "BoardGamePrices"
+msgstr "Brætspilspriser"
+
+#. Plugin URI of the plugin/theme
+msgid "http://boardgameprices.co.uk/api/plugin"
+msgstr "http://boardgameprices.co.uk/api/plugin"
+
+#. Description of the plugin/theme
+msgid "Short code for embedding the best price for board games"
+msgstr "Shortcodes for indlejring af de bedste priser på brætspil"
+
+#. Author of the plugin/theme
+msgid "Kean Pedersen"
+msgstr "Kean Pedersen"
+
+#. Author URI of the plugin/theme
+msgid "http://boardgameprices.co.uk"
+msgstr "http://braetspilspriser.dk"

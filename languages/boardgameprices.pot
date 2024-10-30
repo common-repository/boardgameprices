@@ -1,0 +1,129 @@
+# Copyright (C) 2015 BoardGamePrices
+# This file is distributed under the same license as the BoardGamePrices package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BoardGamePrices 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/boardgameprices\n"
+"POT-Creation-Date: 2015-09-13 10:20:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: boardgameprices.php:41
+msgid "[ID is required]"
+msgstr ""
+
+#: boardgameprices.php:60
+msgid "[Error getting price]"
+msgstr ""
+
+#: boardgameprices.php:77
+msgid "Prices delivered by %s"
+msgstr ""
+
+#: boardgameprices.php:86
+msgid "with shipping"
+msgstr ""
+
+#: boardgameprices.php:88
+msgid ", in stock!"
+msgstr ""
+
+#: boardgameprices.php:94
+msgid "Buy now"
+msgstr ""
+
+#: boardgameprices.php:98
+msgid "See all %d offers!"
+msgstr ""
+
+#: boardgameprices.php:103
+msgid "%s could not find a price for this item."
+msgstr ""
+
+#: boardgameprices.php:106
+msgid "More details here"
+msgstr ""
+
+#: boardgameprices.php:133
+msgid "[unknown price]"
+msgstr ""
+
+#: boardgameprices.php:174
+msgid "BoardGamePrices Settings"
+msgstr ""
+
+#: boardgameprices.php:185
+msgid "BoardGamePrices settings"
+msgstr ""
+
+#: boardgameprices.php:191
+msgid "Destination country for shipping prices:"
+msgstr ""
+
+#: boardgameprices.php:193
+msgid "United Kingdom"
+msgstr ""
+
+#: boardgameprices.php:194
+msgid "Denmark"
+msgstr ""
+
+#: boardgameprices.php:195
+msgid "Sweden"
+msgstr ""
+
+#: boardgameprices.php:196
+msgid "Germany"
+msgstr ""
+
+#: boardgameprices.php:197
+msgid "United States"
+msgstr ""
+
+#: boardgameprices.php:201
+msgid "Currency:"
+msgstr ""
+
+#: boardgameprices.php:211
+msgid "Preference for price selection:"
+msgstr ""
+
+#: boardgameprices.php:213
+msgid "Prefer items in stock from local stores (recommended)."
+msgstr ""
+
+#: boardgameprices.php:215
+msgid "Prefer items in stock (from all stores)."
+msgstr ""
+
+#: boardgameprices.php:217
+msgid "Always select the cheapest price (with shipping)."
+msgstr ""
+
+#: boardgameprices.php:221
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BoardGamePrices"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://boardgameprices.co.uk/api/plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Short code for embedding the best price for board games"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kean Pedersen"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://boardgameprices.co.uk"
+msgstr ""
